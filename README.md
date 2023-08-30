@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kikome-Christine
 - 👀 I’m interested in programing and coding...
-- 🌱 I’m currently learning .java..
+- 🌱 I’m currently learning .javaScript..
 - 💞️ I’m looking to collaborate on .full stuck developer..
 - 📫 How to reach me on kikomechristine2022@gmail.com...
 
